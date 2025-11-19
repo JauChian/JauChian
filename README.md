@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋 I'm Jau-Chian Pan (Joy)</h1>
 <h3 align="center">
-🎓 Bachelor of Computing Graduate | 💻 Full-Stack & AI Engineer | 🌏 Based in New Zealand
+🎓 Bachelor of Computing Graduate | 💻 Full-Stack & AI Developer | 🌏 Based in New Zealand
 </h3>
-
 
 ---
 
-I am an enthusiastic IT graduate with a strong foundation in **web development, mobile applications, data analytics, and AI integration**.  
-Throughout my studies and projects, I have gained hands-on experience with **React, Django, Android (Java), and machine learning workflows**, and I enjoy building solutions that combine both **technical depth and real-world usability**.  
+I am a passionate computing graduate based in New Zealand, specialising in **full-stack development, automation, and AI-driven applications**.  
+I enjoy building practical systems with clean architecture, well-structured APIs, and meaningful real-world impact.
 
-I am particularly passionate about:
-- Developing **full-stack applications** with smooth UI/UX and scalable backend systems  
-- Exploring **AI-driven tools** such as LlamaIndex + RAG and integrating them into chatbots
-- Applying **data analytics and BI tools** to uncover insights and support decision-making  
-- Collaborating in **Agile/Scrum environments**, continuously learning, and sharing knowledge  
+My project experience spans **React, Django, .NET 8, Android (Java), machine learning, database systems, and workflow automation (n8n)**.  
+I am continuously improving my skills, exploring modern technologies, and working toward a long-term career in software engineering.
 
-Currently, I’m looking for an opportunity to **kickstart my career in the tech industry**, grow as a developer, and contribute to meaningful projects.  
+- 🌱 I’m currently learning modern frameworks and technologies, including **.NET 8** and **n8n workflow automation with AI-powered agents**. 
+- 🔭 Latest projects include **[FinShark](https://github.com/JauChian/Finshark)** (.NET 8 API) and my **[n8n automation workflows](https://github.com/JauChian/n8n)**.  
+- 📫 Reach me at: **jauchianp@gmail.com**
 
-- 🌱 I’m improving my skills in **Django REST Framework, React, Android development, and machine learning**  
-- 🔭 Latest project: [**LineRAGBot**](https://github.com/JauChian/LineRAG-Bot)  
-- 📫 Reach me at: **jauchianp@gmail.com**  
 
 ---
 ![Projects Showcase](./my-projects.png)
@@ -52,32 +47,41 @@ Currently, I’m looking for an opportunity to **kickstart my career in the tech
 ### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-FF1709?style=flat&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 ---
 
-### AI / Machine Learning
+### AI / Machine Learning / Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?style=flat&logo=llama&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=scikit-learn&logoColor=white)
 ![Data Analysis (R)](https://img.shields.io/badge/Data%20Analysis-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4AAA?style=flat&logo=n8n&logoColor=white)
 ---
 
 ### Data / BI
+![R](https://img.shields.io/badge/R_Language-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=flat&logo=databricks&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-006272?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Database Design](https://img.shields.io/badge/Database_Design-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ---
 
 ### Testing
@@ -89,10 +93,10 @@ Currently, I’m looking for an opportunity to **kickstart my career in the tech
 ---
 
 ### Tools & Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-2496ED?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
